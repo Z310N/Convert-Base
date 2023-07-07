@@ -1,3 +1,3 @@
 # Convert-Base
 
-Open "**Code**" and go to "**Codespaces**"
+# Run "Convert=Base.py"
